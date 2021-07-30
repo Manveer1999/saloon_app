@@ -16,7 +16,8 @@ Color HOME_BG = Color.fromRGBO(245, 249, 255, 1);
 Color RED = Color.fromRGBO(255, 14, 14, 1);
 Color RED_LIGHT = Color.fromRGBO(236, 175, 196, 1.0);
 Color DIVIDER_BG = Color.fromRGBO(234, 234, 234, 1);
-Color BLUE= Color.fromRGBO(138, 152, 202, 1.0);
+
+Color BLUE = Color.fromRGBO(138, 152, 202, 1.0);
 Color LIGHT_GREEN_BG = Color(0xFFF5F9FF);
 Color YELLOW= Colors.amber.shade500;
 
